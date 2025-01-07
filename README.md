@@ -35,8 +35,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nascmentoluan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nascmentoluan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nascmentoluan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true&order=1" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nascmentoluan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&order=2" height="135" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nascmentoluan&radius=16&theme=elegant&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
