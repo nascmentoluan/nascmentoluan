@@ -41,8 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nascmentoluan/nascmentoluan/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="center">Follow me in my social media</p>
