@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Luan and i'm a:<br>- Java Developer<br>- Computer Science Student<br>- Enthusiastic in the technology area</p>
+<p align="left">My name is Luan and i'm a:<br>- Aspiring Developer<br>- Computer Science Student<br>- Enthusiastic in the technology area</p>
 
 ###
 
